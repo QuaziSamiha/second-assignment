@@ -24,11 +24,6 @@ p{
     width: 90%;
     border-radius: 10px;
 }
-/* ------------------for background color of introduction part ------------------------- */
-#intro-girl{
-    height: 600px;
-    background-color: rgb(252, 230, 203);
-}
 /* ----------------------------for button style---------------------- */
 .my-button{
     width: 150px;
