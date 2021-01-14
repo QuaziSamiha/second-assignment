@@ -4,11 +4,10 @@ a{
 h3{
     font-weight: bold;
 }
-.jacket-card{
-    width: 90%;
-    border: 0;
-    border-radius: 15px;
+p{
+    color: grey;
 }
+/* ----------------------------for woman and man jacket photo -------------------- */
 .image-style{
     padding: 10px;
     margin: 20px;
@@ -16,15 +15,37 @@ h3{
     background-color: whitesmoke;
     border-radius: 20px;
 }
-
 .image-style img{
     height: 100%;
 }
-.jacket-card-footer{
-    background-color: white;
-    border: 0;
-}
+
+/* --------------------------- for last part -------------------------- */
 .my-card{
     width: 90%;
     border-radius: 10px;
+}
+/* ------------------for background color of introduction part ------------------------- */
+#intro-girl{
+    height: 600px;
+    background-color: rgb(252, 230, 203);
+}
+/* ----------------------------for button style---------------------- */
+.my-button{
+    width: 150px;
+    height: 50px;
+}
+/* ---------------------------- for headings font color and to do font bold ------------------ */
+.head-text{
+    font-weight: bold;
+    color: navy;
+}
+/* ---------------------------------for price number in woman and man jacker--------------- */
+.price{
+    font-weight: bold;
+    font-size: 40px;
+    color: orange;
+}
+/* -----------------------------------for logo font ---------------------------------- */
+.logo-font{
+    font-size: 30px;
 }
