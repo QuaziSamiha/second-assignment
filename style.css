@@ -1,6 +1,30 @@
 a{
     font-weight: bold;
 }
-/* header{
-    background-color:bisque;
-}  */
+h3{
+    font-weight: bold;
+}
+.jacket-card{
+    width: 90%;
+    border: 0;
+    border-radius: 15px;
+}
+.image-style{
+    padding: 10px;
+    margin: 20px;
+    height: 400px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+
+.image-style img{
+    height: 100%;
+}
+.jacket-card-footer{
+    background-color: white;
+    border: 0;
+}
+.my-card{
+    width: 90%;
+    border-radius: 10px;
+}
